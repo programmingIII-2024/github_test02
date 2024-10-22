@@ -1,3 +1,3 @@
-# コンパイル時は
-# gcc --trigraphs main.c
-# とtrigraphsのオプションをつけること
+ コンパイル時は
+ gcc --trigraphs main.c
+ とtrigraphsのオプションをつけること
