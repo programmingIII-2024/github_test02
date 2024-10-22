@@ -1,1 +1,3 @@
-# github_test02
+# コンパイル時は
+# gcc --trigraphs main.c
+# とtrigraphsのオプションをつけること
